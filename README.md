@@ -1,1 +1,41 @@
 # first-repo
+
+Abstract
+
+See demo in [site](https://www.google.com/)
+
+## Installation
+
+```shell
+$ git clone {addr}
+$ cd {addr}
+$ npm install
+
+```
+
+
+## How to Start
+
+`$ npm start`
+
+## Skills & Stacks
+
+- node.js
+- React.js
+- Apollo
+- Flux
+- Tailwind
+- Typescript
+- CDD
+
+## Reference
+
+- [google](https://www.google.com/)
+
+
+## Equations
+
+$y=ax+b$
+
+
+
